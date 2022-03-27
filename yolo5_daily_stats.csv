@@ -1,0 +1,22 @@
+Day,Dry Cough,Fever,Chest Pain,Difficulty in breathing,Sore throat,Body Pains and Aches,Diarrhoea,Headache,Loss of taste or smell,Tiredness,Conjuctivits,Rash or skin discolouration,Loss of speech or locomotion,Temperature,Weight,Blood Pressure,Heart Rate,Travelled Internationally,Health Score
+
+1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,54,45,54/76,45,No,34.04255319148936
+
+Day,Dry Cough,Fever,Chest Pain,Difficulty in breathing,Sore throat,Body Pains and Aches,Diarrhoea,Headache,Loss of taste or smell,Tiredness,Conjuctivits,Rash or skin discolouration,Loss of speech or locomotion,Temperature,Weight,Blood Pressure,Heart Rate,Travelled Internationally,Health Score
+
+2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,56,65,56/89,56,No,23.40425531914893
+
+Day,Dry Cough,Fever,Chest Pain,Difficulty in breathing,Sore throat,Body Pains and Aches,Diarrhoea,Headache,Loss of taste or smell,Tiredness,Conjuctivits,Rash or skin discolouration,Loss of speech or locomotion,Temperature,Weight,Blood Pressure,Heart Rate,Travelled Internationally,Health Score
+
+3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,43,434,34/67,34,No,29.787234042553195
+
+Day,Dry Cough,Fever,Chest Pain,Difficulty in breathing,Sore throat,Body Pains and Aches,Diarrhoea,Headache,Loss of taste or smell,Tiredness,Conjuctivits,Rash or skin discolouration,Loss of speech or locomotion,Temperature,Weight,Blood Pressure,Heart Rate,Travelled Internationally,Health Score
+
+4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,54,45,45/76,45,No,34.04255319148936
+
+Day,Dry Cough,Fever,Chest Pain,Difficulty in breathing,Sore throat,Body Pains and Aches,Diarrhoea,Headache,Loss of taste or smell,Tiredness,Conjuctivits,Rash or skin discolouration,Loss of speech or locomotion,Temperature,Weight,Blood Pressure,Heart Rate,Travelled Internationally,Health Score
+
+5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,4334,43,43/54,43,No,29.787234042553195
+
+Day,Dry Cough,Fever,Chest Pain,Difficulty in breathing,Sore throat,Body Pains and Aches,Diarrhoea,Headache,Loss of taste or smell,Tiredness,Conjuctivits,Rash or skin discolouration,Loss of speech or locomotion,Temperature,Weight,Blood Pressure,Heart Rate,Travelled Internationally,Health Score
+,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,56,65,65/65,65,No,78.72340425531915

@@ -1,0 +1,12 @@
+Day,Dry Cough,Fever,Chest Pain,Difficulty in breathing,Sore throat,Body Pains and Aches,Diarrhoea,Headache,Loss of taste or smell,Tiredness,Conjuctivits,Rash or skin discolouration,Loss of speech or locomotion,Temperature,Weight,Blood Pressure,Heart Rate,Travelled Internationally,Health Score
+
+1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,45,45,45/76,45,No,46.808510638297875
+
+Day,Dry Cough,Fever,Chest Pain,Difficulty in breathing,Sore throat,Body Pains and Aches,Diarrhoea,Headache,Loss of taste or smell,Tiredness,Conjuctivits,Rash or skin discolouration,Loss of speech or locomotion,Temperature,Weight,Blood Pressure,Heart Rate,Travelled Internationally,Health Score
+
+2,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,56,76,67/87,78,No,36.170212765957444
+
+Day,Dry Cough,Fever,Chest Pain,Difficulty in breathing,Sore throat,Body Pains and Aches,Diarrhoea,Headache,Loss of taste or smell,Tiredness,Conjuctivits,Rash or skin discolouration,Loss of speech or locomotion,Temperature,Weight,Blood Pressure,Heart Rate,Travelled Internationally,Health Score
+
+3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,43,45,34/65,34,No,34.04255319148936
+
